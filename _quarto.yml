@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "ebart-academy"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: ade.qmd
+        text: ADE
+      - href: mq.qmd
+        text: MQ
+      - href: mpc.qmd
+        text: MPC
+      - href: fs.qmd
+        text: F&S
+      - href: gqt.qmd
+        text: GQT
+      - href: noticias.qmd
+        text: News
+    right:
+      - href: autor.qmd
+        text: Autor
+      - href: contato.qmd
+        text: Contato
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
