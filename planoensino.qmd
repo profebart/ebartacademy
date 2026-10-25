@@ -1,0 +1,66 @@
+---
+title: "Plano de Ensino"
+author: "Eric Bartulici"
+---
+
+# Métodos Quantitativos
+
+**Carga horária**: 64 h.a.
+
+**Tipo**: Obrigatória (100% Laboratorial)
+
+# Objetivos Gerais:
+
+-   Capacitar o discente a estruturar análises e soluções para problemas onde a programação linear e a estatística aplicada forneça caminhos para solucionar os diversos problemas de engenharia.
+
+# Objetivos Específicos:
+
+-   Capacitar o discente a utilizar a linguagem R básica para análise de problemas de engenharia em programação linear.
+
+-   Capacitar o discente a estruturar modelos lineares para solução d eproblemas práticos do dia-a-dia do engenheiro.
+
+-   Capacitar o discente a entrender os processos como sendo produtos de combinações e interações de diversas variáveis e de uma natureza típica probabilística e propor soluções para otimização de desempenho.
+
+# Ementa
+
+-   Distribuição de Probabilidades (Normal, t de Student, F de Snedecor, Qui-quadrado) em linguagem R.
+
+-   Testes de Hipóteses para a Normalidade
+
+-   Regressão linear simples.
+
+-   Regressão linear múltipla.
+
+-   Análise e visualização gráfica de funções lineares.
+
+-   Modelamento e programação linear, interpretação econômica (modelos CVL);
+
+-   Solução de Modelos Lineares, modelos de programação linear aplicados em processos metalúrgicos.
+
+-   Método simplex.
+
+-   Método Húngaro. Tomada de decisão para alocação de recursos.
+
+# Bibliografia Básica
+
+```         
+1. CORRAR, L. J.; THEOPHILO, C. R. Pesquisa Operacional para Decisão em Contabilidade e Administração: Contabilometria. 2. Ed. São Paulo: Atlas, 2008.
+
+2. LACHTERMACHER, G. Pesquisa Operacional na Tomada de Decisões. 4. Ed. Rio de Janeiro: Elsevier, 2009.
+
+3. SILVA, Ermes Medeiros da: SILVA, Elio Medeiros da; MUROLO, Afrânio Carlos; GONÇALVES, Valter. Pesquisa Operacional Para os Cursos de Administração e Engenharia. 4ª. Ed. São Paulo: Atlas, 2010.
+```
+
+# Bibliografia Complementar
+
+```         
+1. ANDRADE, E. L. de. Introdução à Pesquisa Operacional: Métodos e Modelos para Análise de Decisões. 4a. Ed. Rio de Janeiro: LTC, 2009.
+
+2. CAIXETA-FILHO, J. V. Pesquisa Operacional: Técnicas de Otimização Aplicadas a Sistemas Agroindustriais. 2. Ed. São Paulo: Atlas, 2004.
+
+3. GOLDBARG, M. C.; LUNA, H. P. C. Otimização Combinatória e Programação Linear. 2a. Ed. Rio de Janeiro: Elsevier, 2005.
+
+4. LOESCH C.; HEIN N. Pesquisa Operacional: Fundamentos e Modelos. 1a. Ed. São Paulo: Saraiva, 2009.
+
+5. HILLIER, F. S.; LIEBERMAN, G. J. Introdução à Pesquisa Operacional. 8. Ed. Porto Alegre: Bookman, 2010.
+```
