@@ -1,0 +1,6 @@
+---
+title: "Gestão da Qualidade Total"
+author: "Eric Bartulici"
+---
+
+![](gqt_gemini.jpg){fig-align="center"}

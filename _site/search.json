@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "contato.html#endereço-profissional",
-    "href": "contato.html#endereço-profissional",
-    "title": "Contato",
-    "section": "Endereço Profissional",
-    "text": "Endereço Profissional\nRua Afonso Sardinha, 90, Minas Talco.\nCEP: 36494-018 (CEP antigo 36420-000), Ouro Branco - MG"
-  },
-  {
-    "objectID": "contato.html#e-mail",
-    "href": "contato.html#e-mail",
-    "title": "Contato",
-    "section": "E-mail",
-    "text": "E-mail\neric.bartulici@ifmg.edu.br"
-  },
-  {
-    "objectID": "artigos.html",
-    "href": "artigos.html",
-    "title": "Artigos",
+    "objectID": "noticias.html",
+    "href": "noticias.html",
+    "title": "News",
     "section": "",
-    "text": "Artigos"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "News"
   },
   {
     "objectID": "autor.html",
@@ -56,10 +35,38 @@
     "text": "Estatística Aplicada para Engenharia.\nQualidade Seis Sigma (Black Belt).\nProcessos de Produção.\n\n\n\n\n\nFundição.\nTratamentos Térmicos.\nPesquisa Operacional Metalúrgica.\n\n\n\n\n\nPesquisa Operacional em Processos.\nExcelência Operacional."
   },
   {
+    "objectID": "ade.html",
+    "href": "ade.html",
+    "title": "Análise de Dados em Engenharia",
+    "section": "",
+    "text": "Acesse o site em: https://profebart.github.io/ade/"
+  },
+  {
+    "objectID": "contato.html#endereço-profissional",
+    "href": "contato.html#endereço-profissional",
+    "title": "Contato",
+    "section": "Endereço Profissional",
+    "text": "Endereço Profissional\nRua Afonso Sardinha, 90, Minas Talco.\nCEP: 36494-018 (CEP antigo 36420-000), Ouro Branco - MG"
+  },
+  {
+    "objectID": "contato.html#e-mail",
+    "href": "contato.html#e-mail",
+    "title": "Contato",
+    "section": "E-mail",
+    "text": "E-mail\neric.bartulici@ifmg.edu.br"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "MQ",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "mq.html",
+    "href": "mq.html",
+    "title": "Métodos Quantitativos",
+    "section": "",
+    "text": "Acesse em: https://profebart.github.io/mq/"
   }
 ]

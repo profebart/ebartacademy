@@ -1,0 +1,6 @@
+---
+title: "Metodologia da Pesquisa Científica"
+author: "Eric Bartulici"
+---
+
+![](mpc_gemini.jpg)

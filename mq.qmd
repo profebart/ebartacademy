@@ -1,0 +1,8 @@
+---
+title: "Métodos Quantitativos"
+author: "Eric Bartulici"
+---
+
+[![](mq_gemini.jpg)](https://profebart.github.io/mq/)
+
+Acesse em: <https://profebart.github.io/mq/>
