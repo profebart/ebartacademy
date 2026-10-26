@@ -4,4 +4,22 @@ title: "Sejam muito bem vindos à Ebart Academy!"
 
 ![](Ebart_academy_branca_gemini.jpg){fig-align="center" width="460"}
 
-SITE EM CONSTRUÇÃO!
+Sejam muito bem-vindos ao meu portal acadêmico!
+
+Este espaço foi desenvolvido com o objetivo de centralizar e compartilhar todo o ecossistema de aprendizagem das disciplinas sob minha responsabilidade no **Instituto Federal de Minas Gerais (IFMG) – Campus Ouro Branco**, atendendo tanto aos estudantes do **Curso de Graduação em Engenharia Metalúrgica** quanto do **Curso Técnico em Metalurgia**.
+
+Aqui você encontrará materiais de apoio, roteiros de aulas, referências bibliográficas, códigos e conteúdos práticos voltados à excelência técnica e à formação científica sólida. A plataforma está estruturada em acessos diretos para cada uma das nossas frentes de ensino e pesquisa:
+
+- **Métodos Quantitativos**: Modelagem matemática, otimização linear e não linear, pesquisa operacional e apoio quantitativo à tomada de decisões.
+
+- **Metodologia da Pesquisa Científica**: Epistemologia, técnicas na metodologia científica, formulação de hipóteses, estruturação de projetos acadêmicos e rigor na redação técnica e científica.
+
+- **Análise de Dados em Engenharia**: Tratamento estatístico, ciência de dados, inferência estatística, métodos de otimização da qualidade de processos e produtos e controle estatístico de processos voltados à engenharia.
+
+- **Fundição e Solidificação**: Termodinâmica de solidificação, tecnologia de fundição, fornos, acabamento, inspeção da qualidade de produtos fundidos e metalurgia dos processos de transformação metálica.
+
+- **Gestão da Qualidade Total**: Metodologias Seis Sigma, ciclo DMAIC, ferramentas da qualidade, *Business Process Management*, Qualidade Total e excelência operacional.
+
+Navegue pelos links das disciplinas para acessar o conteúdo correspondente às suas atividades letivas e aprofundar seus conhecimentos.
+
+Desejo a todos excelentes e produtivos estudos!
