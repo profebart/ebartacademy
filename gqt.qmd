@@ -4,3 +4,9 @@ author: "Eric Bartulici"
 ---
 
 ![](gqt_gemini.jpg){fig-align="center"}
+
+## Apostila Virtual da Disciplina
+
+Disponível em: <https://profebart.github.io/eo6s/>
+
+## Slides do Curso

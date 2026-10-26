@@ -4,3 +4,9 @@ author: "Eric Bartulici"
 ---
 
 ![](mpc_gemini.jpg)
+
+## Apostila Virtual da Disciplina
+
+Disponível em: <https://profebart.github.io/mpc/>
+
+## Slides do Curso
