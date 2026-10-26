@@ -18,11 +18,14 @@ website:
         text: F&S
       - href: gqt.qmd
         text: GQT
-      - href: noticias.qmd
-        text: News
+
     right:
       - href: autor.qmd
         text: Autor
+      - href: blog.qmd
+        text: Blog
+      - href: noticias.qmd
+        text: News
       - href: contato.qmd
         text: Contato
 

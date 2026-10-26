@@ -3,6 +3,6 @@ title: "News"
 author: "Eric Bartulici"
 ---
 
-![](images/noticias-gemini.jpg){fig-align="center"}
+![](noticias-gemini.jpg){fig-align="center"}
 
 # News
