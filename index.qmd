@@ -1,11 +1,7 @@
 ---
-title: "MQ"
+title: "Sejam muito bem vindos à Ebart Academy!"
 ---
 
-This is a Quarto website.
+![](Ebart_academy_branca_gemini.jpg){fig-align="center" width="460"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+SITE EM CONSTRUÇÃO!
