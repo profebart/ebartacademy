@@ -4,6 +4,10 @@ title: "Sejam muito bem vindos à Ebart Academy!"
 
 ![](Ebart_academy_branca_gemini.jpg){fig-align="center" width="460"}
 
+*"**Scientia pro Veritate**"!*
+
+Saudações!
+
 Sejam muito bem-vindos ao meu portal acadêmico!
 
 Este espaço foi desenvolvido com o objetivo de centralizar e compartilhar todo o ecossistema de aprendizagem das disciplinas sob minha responsabilidade no **Instituto Federal de Minas Gerais (IFMG) – Campus Ouro Branco**, atendendo tanto aos estudantes do **Curso de Graduação em Engenharia Metalúrgica** quanto do **Curso Técnico em Metalurgia**.
@@ -27,5 +31,3 @@ Desejo a todos excelentes e produtivos estudos!
 **Prof. Eric Bartulici**
 
 *Conselheiro Lafaiete, 04/11/2026*
-
-*"Scientia pro Veritate"*

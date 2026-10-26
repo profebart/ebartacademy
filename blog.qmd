@@ -3,3 +3,25 @@ title: "Blog"
 ---
 
 ![](blog-gemini.jpg){fig-align="center"}
+
+Olá!!
+
+Este Blog é dedicado essencialmente à interação da vida acadêmica entre professor e alunos no Instituto Federal de Ciência e Tecnologia de Minas Gerais. Entretanto, todo leitor é convidado a acompanhar aqui os diversos temas, pois serão de amplo interesse acadêmico e social para os interessados na rotina acadêmica em geral.
+
+Dentre os diversos temas que aqui serão apresentados, podemos citar:
+
+- Reflexões sobre a vida acadêmica atual nas Universidades e Institutos Federais.
+
+- Análise de livros, publicações acadêmicas (teses, dissertações, artigos científicos, etc) e , quando possível, a liberação de downloads destes materiais ou encaminhamento de link para acesso remoto.
+
+- Abordagem do perfil e exercício profissional da engenharia no país e no mundo em geral, com dados, fatos, estatísticas e insights para a evolução continuada do nosso "nicho" de atuação.
+
+- Anáise crítica da conjuntura educacional, projetos e metodologias de ensino, pr´ticas profissionais e pefil de formação do engenheiro e técnicos da área de exatas.
+
+- Apresentação de videos da área de interesse e acesso a página do Youtube do curso de engenharia ou de outras áreas educacionais de relevância.
+
+Espero que gostem e interajam comigo nesta atividade (veja na área contato como fazê-lo).
+
+Muito obrigado, um grande abraço a todos!
+
+**Prof. Eric Bartulici**

@@ -6,3 +6,13 @@ author: "Eric Bartulici"
 ![](noticias-gemini.jpg){fig-align="center"}
 
 # News
+
+Acompanhe aqui as principais notícias do setor de engenharia, com informações úteis sobre educação, economia, mercados, atividades e eventos profissionais, empregos, publicações científicas e de desenvolvimento profissional, para citar apenas algumas das áreas de interesse jornalístico.
+
+Navegue pelo menu lateral para encontrar o seu assunto ou busque por "*tags*" ou palavras-chave. Caso deseje maiores informações, entre em contato pelo e-mail "profebart\@outlook.com.br", tentarei responder o mais rápido possível.
+
+Salve o link do site em seu navegador (favoritos) e acompanhe as notícias e materiais disponíveis: ( <https://profebart.github.io/ebartacademy/> ).
+
+Um grande abraço!
+
+**Prof. Eric Bartulici**

@@ -2,9 +2,9 @@
 title: "Autor"
 ---
 
-# ***Eric Bartulici***
+![](eric_em.jpg){fig-align="left" width="341"}
 
-![](eric.png){fig-align="left" width="150"}
+# ***Eric Bartulici***
 
 ***Currículo Lattes:**<http://lattes.cnpq.br/7014168702313216>*
 
